@@ -1,0 +1,17 @@
+Getting started:
+1. Make proper folders:
+    -Routes (receptionist)
+    -Controllers ( waitor)
+    -Models (cook)
+        -WORKING Sequence:
+        ->Models 
+        ->Controllers
+        ->Routes
+2. Authentication process for Admin & User:
+    - Registration
+    - Login
+3. Required for Creation  :
+    -Mongoose (DB)
+    -Express js (creating Server & APIs)
+    -JSON webtoken (JWT) (Access token)
+    -bcryptjs (encryption of data( e.g username, password) and store in db)
